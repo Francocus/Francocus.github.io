@@ -1,0 +1,71 @@
+../ volver para atras
+<h1>texto</h1>      texto que habarca todo un cuadrado
+<p>
+			escritura      simplemente parrafo
+		</p>
+1)<ejemplo>
+							
+							<ejmplo>= significa abrir
+							</ejemplo>= signi cerrar
+        </ejemplo>        
+        					1)eso significa un bloque
+ <ul>						  lista no ordenada
+ 	<li>carne</li>
+ 	<li>leche</li>            partes de la lista
+ 	<li>huevo</li>
+ </ul>
+ <ol>                         lista ordenada
+ 
+  </ol>
+  <br>                         hacer espacios en parrafos             
+ 2)haz <a href="https://google.com">click aqui</a>
+2) "" va el link y en el medio <a href="">medio</a>
+va el texto con el link
+<img src="link img"> sirve para poner img (src o source es lo mismo en escencia que el href y sirve para buscar la ruta de el link) (si pones video o audio en vez de <img> pues eso xd)
+controls="" permite acceder a los controles que el navegador nos permite
+
+<div></div> separar y agrupar contenido
+
+<form></form> formulario
+<input type="" name=""> entrada de datos (nos lo brinda el user)
+ <input type="text"> mas usado (insertar texto)
+ <input type="password"> mas usado (contraseña con .)
+ <input type="number"> mas usado  (solo numeros)
+ <input type="email"> mas usado   (solo emails)
+ <input type="color">             (color)
+ <input type="range" min="1" max="5"> (barra de rango)
+ <input type="date">   (fecha)
+ <input type="time">   (hora)
+ <input type="button" value="boton"> mas usado (boton que se le asigna con value)
+ <input type="submit"> mas usado (boton que dice enviar sin no lo valoro )
+ <input type="text" requiered=""> (requiere, osea, que es necesario completar)
+ todas las validaciones van en el back end
+ porque sino f12 y lo eliminas como si nada 
+  <input type="text"> (cuadro que varia de tamaño, funciona tamb como input)
+  <textarea readonly=""></textarea> (solo lectura pero si se puede modificar tamaño)
+  value es un valor
+  charset (conjunto de caracteres)
+  <head></head>
+  parte que no se ve en a pag
+  <meta charset="utg-8"> (hacer que se puedan usar signos)
+  <meta name="keywords"content="harina,leche,huevo,galletitas">
+		<meta name="description"content="alimentos S.A es una compania destinada a brindar los mejores alimentos de calidad en tiempo y fomra">
+		<meta name="author"content="franco berlochi">
+		<meta name="copyrigh"content="facebook Inc.">
+		(se entiende lo que hace cada cosa)
+        <title>hola pági</title> (titulo)
+        <body> (cuerpo)
+        <header> (encabezado)
+        <nav> (es la barra de navegacion )
+        <article> (donde va todo el articulo)
+        <section> (sección)
+        <aside> (contenido extra)
+        <footer> (pie de pag, osea, contacto, copyright, etc)
+        <table> (es la tabla)
+        <tr></tr> (filas)
+        <td></td> (columnas)
+        <alt></alt> (lo que aparece cuando no carga img)
+        <title></title> (titulo de la foto cunado reposa el mouse)
+        ejemplo:<a href="#codigo">click aqui para saber el codigo</a><br> 
+                <h2 id="codigo">el codigo es el 50</h2> 
+        <link rel="icon" href="C:\Users\franc\OneDrive\Escritorio\Sublime programs\Nueva carpeta\img de pag (ejemplo) - copia.ico"> (es para poner icono al la pestaña)

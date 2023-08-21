@@ -1,0 +1,7 @@
+shift + alt (flecha hacia abajo) = copia
+crtl + ç =  comentario
+alt + click = multiple selección
+[] = atributos
+. = clase
+# = id 
+{} = texto de la etiqueta
